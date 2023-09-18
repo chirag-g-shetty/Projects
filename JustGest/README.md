@@ -1,4 +1,4 @@
-# Just Gest
+# Just Gest (source files only)
 JustGest is a desktop software project developed using python.
 It has features such as Hand Mouse, Commands, Face detection, Game Play, Slang Code (bard API key used) and Analysis.
 Overall, the software is a desktop assistant which helps users
