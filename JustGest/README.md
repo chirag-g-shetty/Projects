@@ -8,3 +8,4 @@ The application is face-lock protected to make it more secure.
 Main application of the project when implemented using systems programming
 lies in assiting industry workers for controlling robots or machines
 in conditions where control using touch may not be possible.
+# Refer Just Gest Report.pdf for insight of working
